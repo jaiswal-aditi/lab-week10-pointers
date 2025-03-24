@@ -1,10 +1,10 @@
 # ICS 212
-## Lab - Week 9
+## Lab - Week 11
 
-# Arrays (2D matrix operations)
+# Pointers
 
 ### Assignment:
-- Update matrix_operations.c following assignment description provided in LabAssignment_Week9.pdf (uploaded on Laulima)
+- Update array_w_pointers.c following assignment description provided in LabAssignment_Week11.pdf (uploaded on Laulima)
 
 
 ### Steps to submit changes:
